@@ -1,4 +1,4 @@
-cd %AppData%/.minecraft/saves/Новый мир
+cd %~dp0
 git fetch
 git pull origin main
 git add .
