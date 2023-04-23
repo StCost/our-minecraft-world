@@ -4,4 +4,4 @@ git pull origin main
 git add .
 git commit -am "%time% %date%"
 git push origin main
-timeout \t 10
+ping 192.168.0.1
