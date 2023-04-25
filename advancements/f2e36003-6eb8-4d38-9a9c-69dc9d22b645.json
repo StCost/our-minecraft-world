@@ -913,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-04-24 02:17:28 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2023-03-20 01:22:03 +0200"
@@ -3207,6 +3213,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2023-03-20 01:24:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2023-04-24 02:14:41 +0300"
     },
     "done": true
   },
