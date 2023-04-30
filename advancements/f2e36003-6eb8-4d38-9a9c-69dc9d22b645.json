@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-04-28 21:51:27 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2023-03-23 01:01:04 +0200"
@@ -1780,6 +1786,7 @@
       "minecraft:frozen_ocean": "2023-03-20 00:31:28 +0200",
       "minecraft:desert": "2023-04-11 02:34:13 +0300",
       "minecraft:windswept_forest": "2023-03-30 23:07:06 +0300",
+      "minecraft:deep_frozen_ocean": "2023-04-28 21:25:17 +0300",
       "minecraft:ocean": "2023-03-20 02:15:53 +0200",
       "minecraft:jungle": "2023-04-12 01:15:30 +0300",
       "minecraft:old_growth_spruce_taiga": "2023-04-12 00:33:59 +0300",
