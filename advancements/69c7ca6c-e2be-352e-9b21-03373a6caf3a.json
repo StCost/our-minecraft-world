@@ -2082,6 +2082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-05-03 01:41:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2023-03-18 15:53:53 +0200"
@@ -2560,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-05-03 01:41:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-03-19 02:55:51 +0200",
@@ -2855,7 +2867,8 @@
       "minecraft:cat": "2023-03-24 00:13:39 +0200",
       "minecraft:pig": "2023-03-23 01:29:11 +0200",
       "minecraft:sheep": "2023-04-09 00:13:07 +0300",
-      "minecraft:cow": "2023-04-09 00:13:06 +0300"
+      "minecraft:cow": "2023-04-09 00:13:06 +0300",
+      "minecraft:bee": "2023-05-03 01:34:39 +0300"
     },
     "done": false
   },
