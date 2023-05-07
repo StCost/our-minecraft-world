@@ -1,54 +1,35 @@
-[00:49:50] [User Authenticator #3/INFO]: UUID of player StTaya is 59ea9712-7d0f-44dc-bda1-a553e33a4705
-[00:49:50] [Server thread/INFO]: StTaya[/93.77.203.60:62402] logged in with entity id 25280 at (-2994.439415716795, 95.0, -3347.364547369037)
-[00:49:50] [Server thread/INFO]: StTaya joined the game
-[00:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[00:52:18] [User Authenticator #4/INFO]: UUID of player StCost is f2e36003-6eb8-4d38-9a9c-69dc9d22b645
-[00:52:18] [Server thread/INFO]: StCost[/93.77.203.60:50050] logged in with entity id 27334 at (-3009.527174757211, 226.0, -3469.647352019069)
-[00:52:18] [Server thread/INFO]: StCost joined the game
-[00:53:17] [Server thread/INFO]: StCost lost connection: Disconnected
-[00:53:17] [Server thread/INFO]: StCost left the game
-[00:58:17] [User Authenticator #5/INFO]: UUID of player StCost is f2e36003-6eb8-4d38-9a9c-69dc9d22b645
-[00:58:17] [Server thread/INFO]: StCost[/127.0.0.1:50239] logged in with entity id 28505 at (-3009.527174757211, 226.0, -3469.647352019069)
-[00:58:17] [Server thread/INFO]: StCost joined the game
-[01:02:14] [Server thread/INFO]: StCost lost connection: Disconnected
-[01:02:14] [Server thread/INFO]: StCost left the game
-[01:02:31] [User Authenticator #6/INFO]: UUID of player StCost is f2e36003-6eb8-4d38-9a9c-69dc9d22b645
-[01:02:31] [Server thread/INFO]: StCost[/127.0.0.1:50274] logged in with entity id 29744 at (-2965.4207884862985, 93.0, -3351.6701635086333)
-[01:02:31] [Server thread/INFO]: StCost joined the game
-[01:12:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2997, y=86, z=-3355} gp{x=-2997, y=86, z=-3358}
-[01:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2995, y=85, z=-3356} gp{x=-2994, y=85, z=-3356}
-[01:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2995, y=85, z=-3356} gp{x=-2996, y=85, z=-3356}
-[01:13:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2995, y=85, z=-3356} gp{x=-2996, y=85, z=-3356}
-[01:13:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2995, y=85, z=-3356} gp{x=-2996, y=85, z=-3356}
-[01:13:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2995, y=85, z=-3356} gp{x=-2996, y=85, z=-3356}
-[01:13:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2995, y=85, z=-3356} gp{x=-2996, y=85, z=-3356}
-[01:31:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2988, y=84, z=-3337} gp{x=-2989, y=84, z=-3337}
-[01:31:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2988, y=84, z=-3337} gp{x=-2989, y=84, z=-3337}
-[01:31:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2988, y=84, z=-3337} gp{x=-2989, y=84, z=-3337}
-[01:31:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2988, y=84, z=-3337} gp{x=-2989, y=84, z=-3337}
-[01:31:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2988, y=84, z=-3337} gp{x=-2989, y=84, z=-3337}
-[01:31:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2988, y=84, z=-3337} gp{x=-2989, y=84, z=-3337}
-[01:31:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2988, y=84, z=-3337} gp{x=-2989, y=84, z=-3337}
-[01:38:18] [Server thread/INFO]: StCost hit the ground too hard
-[02:10:18] [Server thread/INFO]: StCost tried to swim in lava
-[02:32:51] [Server thread/INFO]: StCost lost connection: Disconnected
-[02:32:51] [Server thread/INFO]: StCost left the game
-[02:36:22] [Server thread/INFO]: StTaya experienced kinetic energy
-[02:39:21] [User Authenticator #7/INFO]: UUID of player StCost is f2e36003-6eb8-4d38-9a9c-69dc9d22b645
-[02:39:22] [Server thread/INFO]: StCost[/93.77.203.60:51027] logged in with entity id 59540 at (-2991.3967289693646, 82.125, -3358.4013075269913)
-[02:39:22] [Server thread/INFO]: StCost joined the game
-[02:39:36] [Server thread/INFO]: StCost lost connection: Disconnected
-[02:39:36] [Server thread/INFO]: StCost left the game
-[02:48:49] [Server thread/INFO]: StTaya lost connection: Disconnected
-[02:48:49] [Server thread/INFO]: StTaya left the game
-[02:50:39] [Server thread/INFO]: Stopping the server
-[02:50:39] [Server thread/INFO]: Stopping server
-[02:50:39] [Server thread/INFO]: Saving players
-[02:50:39] [Server thread/INFO]: Saving worlds
-[02:50:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Our world]'/minecraft:overworld
-[02:50:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Our world]'/minecraft:the_end
-[02:50:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Our world]'/minecraft:the_nether
-[02:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (..): All chunks are saved
-[02:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:25:48] [ServerMain/INFO]: Building unoptimized datafixer
+[14:25:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:25:52] [ServerMain/INFO]: Loaded 7 recipes
+[14:25:52] [ServerMain/INFO]: Loaded 1179 advancements
+[14:25:53] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[14:25:53] [Server thread/INFO]: Loading properties
+[14:25:53] [Server thread/INFO]: Default game type: SURVIVAL
+[14:25:53] [Server thread/INFO]: Generating keypair
+[14:25:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:25:53] [Server thread/INFO]: Using default channel type
+[14:25:53] [Server thread/INFO]: Preparing level "../"
+[14:25:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:25:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:25:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:25:58] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:25:58] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:25:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:25:58] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:25:58] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:25:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:25:59] [Worker-Main-10/INFO]: Preparing spawn area: 13%
+[14:25:59] [Worker-Main-9/INFO]: Preparing spawn area: 73%
+[14:25:59] [Server thread/INFO]: Time elapsed: 4663 ms
+[14:25:59] [Server thread/INFO]: Done (6.325s)! For help, type "help"
+[14:26:22] [Server thread/INFO]: Stopping the server
+[14:26:22] [Server thread/INFO]: Stopping server
+[14:26:22] [Server thread/INFO]: Saving players
+[14:26:22] [Server thread/INFO]: Saving worlds
+[14:26:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Our world]'/minecraft:overworld
+[14:26:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Our world]'/minecraft:the_end
+[14:26:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Our world]'/minecraft:the_nether
+[14:26:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (..): All chunks are saved
+[14:26:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:26:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:26:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
