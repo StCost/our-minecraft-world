@@ -1,0 +1,3 @@
+*.mca -text -diff -delta
+*.dat -text -diff -delta
+*.dat_old -text -diff -delta
