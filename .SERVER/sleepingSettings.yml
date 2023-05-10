@@ -1,10 +1,11 @@
-serverName: SleepingServer, waiting for his prince...
+serverName: Saint Family server, sleeping
 serverPort: 25565
-maxPlayers: 3
-loginMessage: ...Waking server up, come back in a minute...
+maxPlayers: 0
+loginMessage: Waking up the server. Try to connect again in 15 seconds
 serverOnlineMode: true
 webPort: 0
 webStopOnStart: false
 startMinecraft: true
 minecraftCommand: start-server.bat
 version: false
+whiteListedNames: ["StCost", "StTaya", "StGrikus"]
