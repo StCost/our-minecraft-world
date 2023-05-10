@@ -1,14 +1,14 @@
 [
-{
-  "id" : "f2e360036eb84d389a9c69dc9d22b645",
-  "name" : "StCost"
-},
-{
-  "id" : "ca7023ab296847978f369a6fa563b1a8",
-  "name" : "StGrikus"
-},
-{
-  "id" : "59ea97127d0f44dcbda1a553e33a4705",
-  "name" : "StTaya"
-}
+  {
+    "uuid": "f2e36003-6eb8-4d38-9a9c-69dc9d22b645",
+    "name": "StCost"
+  },
+  {
+    "uuid": "59ea9712-7d0f-44dc-bda1-a553e33a4705",
+    "name": "StTaya"
+  },
+  {
+    "uuid": "ca7023ab-2968-4797-8f36-9a6fa563b1a8",
+    "name": "StGrikus"
+  }
 ]
