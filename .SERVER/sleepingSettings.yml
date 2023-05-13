@@ -8,4 +8,3 @@ webStopOnStart: false
 startMinecraft: true
 minecraftCommand: start-server.bat
 version: false
-whiteListedNames: ["StCost", "StTaya", "StGrikus"]

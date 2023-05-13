@@ -1,0 +1,61 @@
+Users:
+  59ea9712-7d0f-44dc-bda1-a553e33a4705:
+    LastKnownLocation:
+      NORMAL:
+        Location:
+          ==: org.bukkit.Location
+          world: ../
+          x: 1049.300000011921
+          y: 72.0
+          z: -1414.3235674151395
+          pitch: 17.399994
+          yaw: -10.949957
+      NETHER:
+        Location:
+          ==: org.bukkit.Location
+          world: ../_nether
+          x: -393.69999998807907
+          y: 94.0
+          z: -439.3803733319771
+          pitch: 11.4000435
+          yaw: 5.249634
+    Waypoints:
+      '2':
+        Location:
+          ==: org.bukkit.Location
+          world: ../_nether
+          x: 186.38599863368418
+          y: 53.0
+          z: -153.8696898185009
+          pitch: 28.799965
+          yaw: -46.498993
+  f2e36003-6eb8-4d38-9a9c-69dc9d22b645:
+    LastKnownLocation:
+      NORMAL:
+        Location:
+          ==: org.bukkit.Location
+          world: ../
+          x: 1050.2333149030344
+          y: 72.0
+          z: -1414.300000011921
+          pitch: 18.299961
+          yaw: -25.050232
+      NETHER:
+        Location:
+          ==: org.bukkit.Location
+          world: ../_nether
+          x: -393.69999998807907
+          y: 94.0
+          z: -438.51675191928393
+          pitch: 17.999979
+          yaw: -109.160034
+    Waypoints:
+      '2':
+        Location:
+          ==: org.bukkit.Location
+          world: ../_nether
+          x: 177.47694289308035
+          y: 55.011046650675624
+          z: -164.84492695688738
+          pitch: 26.081348
+          yaw: -174.1034
