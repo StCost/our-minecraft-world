@@ -1,7 +1,7 @@
 ShowCoords: false
 ShowDistance: true
 EnableTrackingPlayers: true
-EnableWaypoints: true
+EnableWaypoints: false
 EnablePlayerXPCost: false
 EnableWaypointXPCost: false
 PlayerXPCost: 10
@@ -9,6 +9,6 @@ WaypointXPCost: 10
 EnchantmentGlow: true
 MaxWaypoints: 50
 ShowTargetDimension: true
-TrackLastKnownLocation: true
-DisableCreateWaypoints: false
+TrackLastKnownLocation: false
+DisableCreateWaypoints: true
 EnableGlobalWaypoints: false

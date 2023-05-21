@@ -1,0 +1,91 @@
+#################################
+#                               #
+# Configuration for RHEasyCrops #
+#                               #
+#################################
+
+# Just replace the default info with your own. :)
+# Be careful! Make always sure to put an ' after and before the text!
+
+
+# General plugin output
+
+
+# Should a hoe lose durability, if used on crops?
+hoe-uses-durability: false
+
+# Should block trampling be deactivated?
+enable-no-block-trample: false
+
+# Do both player hands have to be empty?
+no-block-trample-require-empty-handslots: false
+
+# Change it to True, if you want to use the mcMMO integration for the skill "Herbalism"?
+use-mcMMO: false
+
+# Change it to True, if the player has to be the owner or a trusted player (GriefPrevention)
+use-GriefPrevention: false
+
+# If the player is not owner or trusted (GriefPrevention)
+no-access-msg: '&#ff243dYou are no member of this area! Ask %owner% to &f/trust &#ff243dyou.'
+
+# How much EXP should the player gain for harvesting?
+# default: 50
+mcMMO-herbalism-exp: 50
+
+# Change it to True, if you want to use the pay system of JobsReborn
+use-JobsReborn: false
+
+# Set the values for experience and income. You should calculate them, by checking your "farmer"-relative job config file.
+# default: exp: 2.94 | income: 1.92 (based on the default Farmer)
+jobs:
+  farmer:
+    exp: 2.94
+    income: 1.92
+
+# Set the actionbar message, when exp and income are given
+# placeholders: %job_exp% | %job_income%
+jobs-actionbar: '&a+%job_exp% xp &f| &e+$%job_income%'
+
+# Job exp actionbar silent mode
+jobs-silent-mode: false
+
+# Activates the debug mode
+debug-mode: false
+
+# Do you want to use custom parameters?
+custom-data:
+  # Enable this, if you want to have item flags activated
+  # default: false
+  enabled: false
+  # Choose which filters you want to use
+  filters:
+    # These are all possible flags
+    # Enable or disable them as you wish
+    use-custom-item:
+      # Do you want to use a different item
+      # default: false
+      enabled: false
+      # Set the custom item type
+      material: 'amethyst_shard'
+
+    use-custom-name:
+      # Do you want to use a custom item name
+      # default: false
+      enabled: false
+      # Set the custom item name
+      # You can also use hex colors
+      displayname: '&#BF00FFMagisches &#F4FA58Tool'
+
+    use-enchantment:
+      # Should the tool need a specific enchantment?
+      # default: false
+      enabled: false
+      # Set the enchantment name
+      # Only 1 enchantment is allowed!
+      name: 'fortune'
+      # You can also filter for a custom enchantment level, e.g Fortune III
+      # default: false
+      force-level: false
+      # Set the needed enchantment level
+      level: 3
