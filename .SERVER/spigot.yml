@@ -38,7 +38,7 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  restart: Сервер перезапускается
 advancements:
   disable-saving: false
   disabled:
@@ -79,7 +79,7 @@ world-settings:
       cavevines-modifier: 100
       glowberry-modifier: 100
     entity-tracking-range:
-      players: 48
+      players: 240
       animals: 48
       monsters: 48
       misc: 32

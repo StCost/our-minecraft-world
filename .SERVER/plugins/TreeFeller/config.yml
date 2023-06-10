@@ -15,7 +15,7 @@ scan-distance: 256
 leaf-detect-range: 6
 
 # How far away from logs should leaf blocks be destroyed? (set to 0 to prevent leaves from being destroyed) (Values over 6 are useless for vanilla trees, as these leaves would naturally decay anyway)
-leaf-break-range: 6
+leaf-break-range: 3
 
 # How many logs should be required for logs to be counted as a tree?
 required-logs: 4
@@ -68,7 +68,7 @@ max-horizontal-trunk-pillar-length: 6
 max-trunks: 1
 
 # Should the tree cut down with an animation?
-cutting-animation: true
+cutting-animation: false
 
 # Animation delay, in ticks
 anim-delay: 1
@@ -115,7 +115,7 @@ root-distance: 6
 # FALL_NATURAL_INVENTORY      blocks will fall as falling blocks, break, and appear in the player's inventory upon reaching the ground. Blocks will attempt to target a position to land as if the tree fell over realistically
 # FALL_NATURAL_HURT_INVENTORY blocks will fall as falling blocks, break, hurt entities they land on, and appear in the player's inventory upon reaching the ground. Blocks will attempt to target a position to land as if the tree fell over realistically
 # Note that falling blocks occasionally drop as items if they land wrong
-log-behavior: BREAK
+log-behavior: FALL_NATURAL_HURT_BREAK
 
 # What felling behavior should leaves have?
 # Valid options:

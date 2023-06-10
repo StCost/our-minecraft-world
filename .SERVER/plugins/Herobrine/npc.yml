@@ -1,0 +1,34 @@
+npc:
+  Guardian:
+    SpawnCount: 1
+    HP: 40
+    Speed: 0.3
+    Drops:
+      GOLDEN_SWORD:
+        Chance: 40
+        Count: 1
+      GOLDEN_AXE:
+        Chance: 30
+        Count: 1
+  Warrior:
+    SpawnChance: 4
+    HP: 40
+    Speed: 0.3
+    Drops:
+      IRON_CHESTPLATE:
+        Chance: 25
+        Count: 1
+      IRON_HELMET:
+        Chance: 20
+        Count: 1
+  Demon:
+    SpawnChance: 4
+    HP: 40
+    Speed: 0.3
+    Drops:
+      GOLDEN_APPLE:
+        Chance: 40
+        Count: 1
+      SKELETON_SKULL:
+        Chance: 20
+        Count: 1

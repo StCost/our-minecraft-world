@@ -5,11 +5,11 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: 1049.8351204780445
-          y: 72.0
-          z: -1414.351713825226
-          pitch: 11.700025
-          yaw: -8.549939
+          x: -3108.7132738160635
+          y: 80.0
+          z: -3451.6388843832265
+          pitch: 6.1500497
+          yaw: 85.35693
       NETHER:
         Location:
           ==: org.bukkit.Location
@@ -24,41 +24,41 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3058.215603432074
-          y: 90.0
-          z: -3255.8789977915067
-          pitch: 25.499887
-          yaw: -160.51025
+          x: -2422.8720783341296
+          y: 36.0
+          z: -2921.947193174924
+          pitch: 17.250092
+          yaw: 21.755127
   f2e36003-6eb8-4d38-9a9c-69dc9d22b645:
     LastKnownLocation:
       NORMAL:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3108.4121598409797
+          x: -3108.385776523474
           y: 80.0
-          z: -3451.2233531945485
-          pitch: -4.650196
-          yaw: -114.52417
+          z: -3451.340126002522
+          pitch: 42.89504
+          yaw: -169.17682
       NETHER:
         Location:
           ==: org.bukkit.Location
           world: ../_nether
-          x: -393.69999998807907
+          x: -393.56718757872045
           y: 94.0
-          z: -438.51675191928393
-          pitch: 17.999979
-          yaw: -109.160034
+          z: -438.57767386147214
+          pitch: -39.899883
+          yaw: 158.74341
     Waypoints:
       '2':
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3042.417712582265
-          y: 98.0
-          z: -3297.4500660982853
-          pitch: 89.849976
-          yaw: -33.741093
+          x: -2952.099536804073
+          y: 80.0
+          z: -3265.955537740839
+          pitch: 52.782623
+          yaw: -170.80466
         Item: SKELETON_SKULL
         Name: Death Point
       '0':
@@ -111,11 +111,11 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -2945.4069369410054
-          y: 101.0
-          z: -3316.699999988079
-          pitch: 42.27133
-          yaw: -129.96997
+          x: -3117.5210104824837
+          y: 37.0
+          z: -3278.699999988079
+          pitch: 81.56237
+          yaw: 177.84268
         Item: SKELETON_SKULL
         Name: Death Point
     LastKnownLocation:
@@ -123,8 +123,17 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3108.639645462257
+          x: -3108.5931075671883
           y: 80.0
-          z: -3451.1339093776064
-          pitch: 15.78076
-          yaw: -56.203342
+          z: -3453.569654309194
+          pitch: 3.8976278
+          yaw: -77.74838
+      NETHER:
+        Location:
+          ==: org.bukkit.Location
+          world: ../_nether
+          x: -393.46139327430166
+          y: 94.0
+          z: -439.5923331937775
+          pitch: 17.915764
+          yaw: 2.4248657
