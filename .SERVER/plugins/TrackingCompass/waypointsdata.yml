@@ -5,60 +5,60 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3108.7132738160635
+          x: -3108.627932780415
           y: 80.0
-          z: -3451.6388843832265
-          pitch: 6.1500497
-          yaw: 85.35693
+          z: -3448.43856694312
+          pitch: -89.85012
+          yaw: 1.7229004
       NETHER:
         Location:
           ==: org.bukkit.Location
           world: ../_nether
-          x: -16.05135073438892
-          y: 59.0
-          z: -81.30000001192093
-          pitch: 12.900023
-          yaw: -4.200214
+          x: -374.88904499548016
+          y: 68.0
+          z: -406.00354198827534
+          pitch: 25.949718
+          yaw: 101.69781
     Waypoints:
       '2':
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -2422.8720783341296
-          y: 36.0
-          z: -2921.947193174924
-          pitch: 17.250092
-          yaw: 21.755127
+          x: -3353.9656212340187
+          y: -53.0
+          z: -3251.9786574354644
+          pitch: 66.89978
+          yaw: 57.104004
   f2e36003-6eb8-4d38-9a9c-69dc9d22b645:
     LastKnownLocation:
       NORMAL:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3108.385776523474
+          x: -3108.5301393280984
           y: 80.0
-          z: -3451.340126002522
-          pitch: 42.89504
-          yaw: -169.17682
+          z: -3450.0033560098154
+          pitch: 27.299576
+          yaw: 3.9076686
       NETHER:
         Location:
           ==: org.bukkit.Location
           world: ../_nether
-          x: -393.56718757872045
-          y: 94.0
-          z: -438.57767386147214
-          pitch: -39.899883
-          yaw: 158.74341
+          x: -374.5104168772054
+          y: 68.0
+          z: -406.69999998807907
+          pitch: 11.624778
+          yaw: -96.00256
     Waypoints:
       '2':
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -2952.099536804073
-          y: 80.0
-          z: -3265.955537740839
-          pitch: 52.782623
-          yaw: -170.80466
+          x: -3356.9996716699566
+          y: -14.0
+          z: -3341.613850748875
+          pitch: 68.5502
+          yaw: 144.75125
         Item: SKELETON_SKULL
         Name: Death Point
       '0':
@@ -111,11 +111,11 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3117.5210104824837
-          y: 37.0
-          z: -3278.699999988079
-          pitch: 81.56237
-          yaw: 177.84268
+          x: -3448.4616775449126
+          y: -51.0
+          z: -3229.6979327766835
+          pitch: -3.7835968
+          yaw: 85.96631
         Item: SKELETON_SKULL
         Name: Death Point
     LastKnownLocation:
@@ -123,17 +123,17 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -3108.5931075671883
+          x: -3108.5301393280984
           y: 80.0
-          z: -3453.569654309194
-          pitch: 3.8976278
-          yaw: -77.74838
+          z: -3451.016895323042
+          pitch: 23.520235
+          yaw: 10.987496
       NETHER:
         Location:
           ==: org.bukkit.Location
           world: ../_nether
-          x: -393.46139327430166
-          y: 94.0
-          z: -439.5923331937775
-          pitch: 17.915764
-          yaw: 2.4248657
+          x: -374.573665002632
+          y: 68.0
+          z: -405.30000001192093
+          pitch: 23.55293
+          yaw: 172.82957

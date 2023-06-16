@@ -1738,6 +1738,7 @@
       "minecraft:snowy_beach": "2023-03-19 23:39:56 +0200",
       "minecraft:windswept_savanna": "2023-05-03 21:51:39 +0300",
       "minecraft:flower_forest": "2023-04-28 22:24:05 +0300",
+      "minecraft:frozen_peaks": "2023-06-11 00:13:09 +0300",
       "minecraft:old_growth_birch_forest": "2023-05-03 21:34:17 +0300",
       "minecraft:deep_dark": "2023-03-26 01:47:14 +0200",
       "minecraft:meadow": "2023-03-23 03:05:32 +0200",
@@ -1875,6 +1876,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2023-05-22 00:03:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-06-12 01:11:52 +0300"
     },
     "done": true
   },
@@ -2323,6 +2330,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-03-21 00:54:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-06-16 00:40:02 +0300"
     },
     "done": true
   },
