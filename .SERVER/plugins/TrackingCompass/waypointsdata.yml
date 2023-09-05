@@ -54,11 +54,11 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: -2978.300000011921
-          y: 83.74999996423722
-          z: -3311.8298100680404
-          pitch: 49.80012
-          yaw: 39.46316
+          x: 2180.53041347981
+          y: 79.0
+          z: -2153.0643335022455
+          pitch: 77.55001
+          yaw: 48.261673
         Item: SKELETON_SKULL
         Name: Death Point
       '0':
@@ -111,11 +111,11 @@ Users:
         Location:
           ==: org.bukkit.Location
           world: ../
-          x: 2287.903746135398
-          y: 64.0
-          z: -1697.2864654847915
-          pitch: 28.827646
-          yaw: -47.336304
+          x: -3053.1972201698272
+          y: 99.0
+          z: -3280.9708619434
+          pitch: 40.32912
+          yaw: 39.003784
         Item: SKELETON_SKULL
         Name: Death Point
     LastKnownLocation:
